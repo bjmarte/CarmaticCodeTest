@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarmaticConsole", "CarmaticConsole\CarmaticConsole.csproj", "{856DCF23-595B-4CDF-B0CD-20611F43EE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarmaticCode", "CarmaticCode\CarmaticCode\CarmaticCode.csproj", "{B9246207-E37D-4D72-AC09-F255A254E14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarmaticTests", "CarmaticTests\CarmaticTests.csproj", "{4F01EF3C-FA3C-45E9-918F-9753792C0FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856DCF23-595B-4CDF-B0CD-20611F43EE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856DCF23-595B-4CDF-B0CD-20611F43EE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856DCF23-595B-4CDF-B0CD-20611F43EE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856DCF23-595B-4CDF-B0CD-20611F43EE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9246207-E37D-4D72-AC09-F255A254E14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9246207-E37D-4D72-AC09-F255A254E14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9246207-E37D-4D72-AC09-F255A254E14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9246207-E37D-4D72-AC09-F255A254E14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F01EF3C-FA3C-45E9-918F-9753792C0FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F01EF3C-FA3C-45E9-918F-9753792C0FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F01EF3C-FA3C-45E9-918F-9753792C0FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F01EF3C-FA3C-45E9-918F-9753792C0FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B97B5FE-DA13-47A2-A39E-4BCBC950F822}
+	EndGlobalSection
+EndGlobal
