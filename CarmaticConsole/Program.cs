@@ -2,5 +2,4 @@
 
 using CarmaticCode;
 
-var message = new CarmaticLogic().GetMessage();
-Console.WriteLine(message);
+Console.WriteLine("Hello World");
